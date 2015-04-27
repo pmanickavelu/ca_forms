@@ -1,2 +1,2 @@
 # ca_forms
-JS/JQ based dynamic forms with coditions
+JS/JQ based dynamic forms.
